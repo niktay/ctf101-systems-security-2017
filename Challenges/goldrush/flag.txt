@@ -1,0 +1,1 @@
+ctf{mining_gold_like_goldfish}
